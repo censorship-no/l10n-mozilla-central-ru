@@ -14,7 +14,7 @@ concurrency:
   group: "default-branch-push"
 
 env:
-  SOURGE_HG_REPO_URL: https://hg.mozilla.org/l10n-central/es-ES/
+  SOURGE_HG_REPO_URL: https://hg.mozilla.org/l10n-central/ru/
   SOURCE_HG_REPO_PATH: source_hg_repo
 
 jobs:
